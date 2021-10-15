@@ -16,6 +16,6 @@ hugo -t hugo-resume
 #commit to Portfolio repo
 git add -A
 git commit -m "$msg"
-git push origin main --recurse-submodules=on-demand
+git push origin main --recurse-submodules=check
 
 printf "\033[0;32mPushed to Portfolio\033[0m\n"
