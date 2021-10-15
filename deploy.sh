@@ -11,7 +11,7 @@ if [ -n "$*" ]; then
 fi
 
 #commit to Portfolio repo
-git add .
+git add -A
 git commit -m "$msg"
 git push origin main
 
