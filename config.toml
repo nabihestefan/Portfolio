@@ -9,7 +9,7 @@ enableGitInfo = false
 
 [params]
 address = "Olin College of Engineering"
-email = "estefan.nabih@gmail.com"
+email = "nabih@estefan.com"
 favicon = "/favicon.ico"
 firstName = "Nabih"
 lastName = "Estefan Diaz"
