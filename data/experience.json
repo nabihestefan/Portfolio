@@ -1,21 +1,27 @@
 [
     {
+        "role":"SWE Intern",
+        "company":"<a href='https://buildyourfuture.withgoogle.com/programs/' target='_blank' rel='noopener noreferrer'>Google</a> - AndroidX Team",
+        "summary":"Upcoming Role",
+        "range":"May 2022 - August 2022"
+    },
+    {
         "role":"STEP Intern",
         "company":"<a href='https://buildyourfuture.withgoogle.com/programs/step/' target='_blank' rel='noopener noreferrer'>Google</a> - AndroidX Team",
         "summary":"Designed, planned development, and deployed internal tool used in Android API Change reviewing. Developed Java and Kotlin functions for communication with back-end and processing the data received and tests for these functions. Also developed front end for tool interaction. Expected reduction in API Reviewing of 20 SWE/EM hours per week",
         "range":"May 2021 - August 2021"
     },
     {
-        "role":"Electrical & Computer Engineering Member",
-        "company":"<a href='https://www.olinelectricmotorsports.com/' target='_blank' rel='noopener noreferrer'>Olin Electric Motorsports - Formula SAE</a>",
-        "summary":"Worked on multiple projects like designing, populating and coding PCBs for Battery Voltage Management and RF communication with the running Car. Also worked on interface for a HitL (Hardware-in-the-Loop) system for testing the car's electrical system.",
-        "range":"August 2019 - October 2021"
-    },
-    {
         "role":"IT Student Worker",
         "company":"<a href='https://www.olin.edu' target='_blank' rel='noopener noreferrer'>Olin College of Engineering</a>",
         "summary":"Man the IT Help Desk during the week to help students with software and hardware problems in their computers. Fix computer, network, and general tech problems all throughout the college. Train new student workers to help the IT department and help new students set up their laptops.",
         "range":"January 2020 - Present"
+    },
+    {
+        "role":"Electrical & Computer Engineering Member",
+        "company":"<a href='https://www.olinelectricmotorsports.com/' target='_blank' rel='noopener noreferrer'>Olin Electric Motorsports - Formula SAE</a>",
+        "summary":"Worked on multiple projects like designing, populating and coding PCBs for Battery Voltage Management and RF communication with the running Car. Also worked on interface for a HitL (Hardware-in-the-Loop) system for testing the car's electrical system.",
+        "range":"August 2019 - October 2021"
     },
     {
         "role":"Member of the Board of Directors",
